@@ -10,7 +10,7 @@
 
 **Seravian** is an innovative AI-powered mental health support platform developed as a **Graduation Project** by Computer Science students (2024–2025). Our mission is to make mental health support accessible, intelligent, and personalized through cutting-edge artificial intelligence and modern technology.
 
-The platform combines advanced natural language processing, emotion recognition, speech analysis, and facial expression detection to provide comprehensive mental health assessments and real-time emotional support.
+The platform combines advanced natural language processing, emotion recognition and speech analysis to provide comprehensive mental health assessments and real-time emotional support.
 
 ---
 
@@ -41,7 +41,6 @@ Our platform consists of four main components working together to deliver seamle
 - **Text-to-Speech (TTS)** - AI responses delivered through Tortoise TTS model
 
 ### 📊 **Comprehensive Analytics**
-- Real-time mood tracking and emotional patterns
 - Detailed diagnostic reports and recommendations
 - Progress monitoring and mental health insights
 - Historical data analysis for treatment optimization
@@ -103,9 +102,9 @@ Each repository contains detailed setup instructions:
 
 ## 🔐 Privacy & Data Protection
 
-At Seravian, we take your privacy and mental health data seriously. Our platform is built with security-first principles and follows industry best practices for healthcare data protection.
+At Seravian, we take your privacy and mental health data seriously. Our platform is built with security-first principles.
 
-**📄 [Read our Privacy Policy](.assets/seravia_privacy_policy.pdf)** - Comprehensive information about how we collect, use, and protect your data.
+**📄 [Read our Privacy Policy](.assets/seravian_privacy_policy.pdf)** - Comprehensive information about how we collect, use, and protect your data.
 
 ---
 
