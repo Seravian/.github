@@ -80,7 +80,7 @@ Our platform consists of four main components working together to deliver seamle
 | Repository | Description | Technology | Developers |
 |------------|-------------|------------|------------|
 | [**Seravian-Web**](https://github.com/Seravian/Seravian-Web) | Angular web application and admin dashboard | Angular, TypeScript | [Abdalrhman Alhrery](https://github.com/alhrery2003), [Khalid Mohamed](https://github.com/Khalidsaied) |
-| [**Seravian-Backend**](https://github.com/Seravian/Seravian-Backend) | ASP.NET Core Web API backend | C#, .NET 9 | [Mohamed Saeed](https://github.com/mohamedsaeed138) |
+| [**Seravian-Backend**](https://github.com/Seravian/Seravian-Backend) | ASP.NET Core Web API backend | C#, ASP.NET 9 | [Mohamed Saeed](https://github.com/mohamedsaeed138) |
 | [**Seravian-App**](https://github.com/Seravian/Seravian-App) | Android mobile application | Kotlin, Jetpack Compose | [Hossam Walid](https://github.com/GreenVenom77), [Kareem Essam](https://github.com/Kessam10) |
 | [**Seravian-AI**](https://github.com/Seravian/Seravian-AI) | AI microservices and machine learning models | Python, FastAPI | [Ahmed Gharieb](https://github.com/MeloR1), [Mohamed Saeed](https://github.com/mohamedsaeed138) |
 
