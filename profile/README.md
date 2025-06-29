@@ -1,7 +1,7 @@
 # Seravian
 
 <div align="center">
-  <img src=".assets/seravian_logo.png" alt="Seravian Logo" width="100%" />
+  <img src=".assets/seravian_logo.png" alt="Seravian Logo" width="400" />
 </div>
 
 ---
@@ -17,7 +17,7 @@ The platform combines advanced natural language processing, emotion recognition 
 ## 🏗️ Platform Architecture
 
 <div align="center">
-  <img src=".assets/seravian_block_diagram.png" alt="Seravian Platform Block Diagram" width="100%" />
+  <img src=".assets/seravian_block_diagram.jpeg" alt="Seravian Platform Block Diagram" width="100%" />
 </div>
 
 Our platform consists of four main components working together to deliver seamless mental health support:
