@@ -1,4 +1,8 @@
-![Seravian Logo](.assets/seravian_logo.png)
+<div align="center">
+
+  <img src="https://github.com/Seravian/.github/blob/a065f5589a03cd35877ee7f54a1d4b99e066835f/.assets/seravian_logo.png" alt="Seravian Logo" width="400" />More actions
+
+</div>
 
 ---
 
@@ -12,7 +16,11 @@ The platform combines advanced natural language processing, emotion recognition 
 
 ## 🏗️ Platform Architecture
 
-![Seravian Platform Block Diagram](.assets/seravian_block_diagram.jpeg)
+<div align="center">
+
+  <img src="https://github.com/Seravian/.github/blob/a065f5589a03cd35877ee7f54a1d4b99e066835f/.assets/seravian_block_diagram.jpeg" alt="Seravian Platform Block Diagram" width="100%" />
+
+</div>
 
 Our platform consists of four main components working together to deliver seamless mental health support:
 
@@ -107,7 +115,7 @@ Each repository contains detailed setup instructions:
 
 At Seravian, we take your privacy and mental health data seriously. Our platform is built with security-first principles.
 
-**<a href="./.assets/seravian_privacy_policy.pdf" target="_blank">📄 Read our Privacy Policy</a>** - Comprehensive information about how we collect, use, and protect your data.
+**<a href="https://github.com/Seravian/.github/blob/a065f5589a03cd35877ee7f54a1d4b99e066835f/.assets/seravian_privacy_policy.pdf" target="_blank">📄 Read our Privacy Policy</a>** - Comprehensive information about how we collect, use, and protect your data.
 
 ---
 
@@ -130,7 +138,7 @@ To democratize mental health support through accessible, intelligent, and person
 
 For comprehensive technical documentation, system architecture details, and development guidelines, please refer to our complete project documentation.
 
-**<a href="./.assets/seravian_project_documentation.pdf" target="_blank">📖 View Complete Project Documentation</a>** - Detailed technical specifications, API documentation, and development guide.
+**<a href="https://github.com/Seravian/.github/blob/a065f5589a03cd35877ee7f54a1d4b99e066835f/.assets/seravian_project_documentation.pdf" target="_blank">📖 View Complete Project Documentation</a>** - Detailed technical specifications, API documentation, and development guide.
 
 ---
 
