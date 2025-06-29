@@ -1,5 +1,3 @@
-# Seravian
-
 <div align="center">
   <img src=".assets/seravian_logo.png" alt="Seravian Logo" width="400" />
 </div>
