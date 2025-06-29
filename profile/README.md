@@ -32,15 +32,18 @@ Our platform consists of four main components working together to deliver seamle
 ## 🚀 Key Features
 
 ### 🤖 **AI-Powered Mental Health Support**
+
 - Advanced conversational AI using MentalLlama models (7B & 13B)
 - Real-time emotional analysis and personalized responses
 - Comprehensive mental health diagnostics and assessments
 
 ### 🎤 **Multi-Modal Interaction**
+
 - **Speech-to-Text (STT)** - Natural voice conversations
 - **Text-to-Speech (TTS)** - AI responses delivered through Tortoise TTS model
 
 ### 📊 **Comprehensive Analytics**
+
 - Detailed diagnostic reports and recommendations
 - Progress monitoring and mental health insights
 - Historical data analysis for treatment optimization
@@ -50,20 +53,24 @@ Our platform consists of four main components working together to deliver seamle
 ## 🛠️ Technology Stack
 
 ### Frontend Technologies
+
 - **Web:** Angular, TypeScript, Material Design
 - **Mobile:** Kotlin, Jetpack Compose, Material 3
 
 ### Backend Technologies
+
 - **API:** ASP.NET Core (.NET 9), C#
 - **Database:** SQL Server with Entity Framework Core
 - **Authentication:** JWT + Email OTP via MailKit
 
 ### AI & Machine Learning
+
 - **Language Models:** MentalLlama 7B & 13B models
 - **Speech Processing:** Tortoise TTS model
 - **Hosting:** Modal cloud platform with FastAPI
 
 ### Infrastructure
+
 - **Hosting:** MonsterASP (Windows hosting)
 - **Media Processing:** FFmpeg for audio/video handling
 - **Real-time Communication:** SignalR for live chat
@@ -84,12 +91,14 @@ Our platform consists of four main components working together to deliver seamle
 ## 📋 Getting Started
 
 ### For Users
+
 1. **📱 Download the Seravian mobile app** from [our download page](https://drive.google.com/file/d/18n3C9lD8GJzN6lh3_dZK2tZfMzSXafEV/view?usp=sharing)
 2. **🌐 Access the web platform** at [seravian.netlify.app](https://seravian.netlify.app/)
 3. **📝 Create an account** using email verification
 4. **🧠 Start your mental health journey** with AI-powered support
 
 ### For Developers
+
 Each repository contains detailed setup instructions:
 
 1. **Clone the desired repository**
@@ -104,16 +113,18 @@ Each repository contains detailed setup instructions:
 
 At Seravian, we take your privacy and mental health data seriously. Our platform is built with security-first principles.
 
-**📄 [Read our Privacy Policy](.assets/seravian_privacy_policy.pdf)** - Comprehensive information about how we collect, use, and protect your data.
+**<a href=".assets/seravian_privacy_policy.pdf" target="_blank">📄 Read our Privacy Policy</a>** - Comprehensive information about how we collect, use, and protect your data.
 
 ---
 
 ## 🌟 Impact & Vision
 
 ### Our Mission
+
 To democratize mental health support through accessible, intelligent, and personalized AI technology, breaking down barriers to mental healthcare worldwide.
 
 ### Target Impact
+
 - **🌍 Global Accessibility** - Reach underserved communities lacking mental health resources
 - **💰 Cost-Effective Care** - Reduce the financial burden of mental health support
 - **⏰ 24/7 Availability** - Provide immediate support when traditional services aren't available
@@ -125,7 +136,7 @@ To democratize mental health support through accessible, intelligent, and person
 
 For comprehensive technical documentation, system architecture details, and development guidelines, please refer to our complete project documentation.
 
-**📖 [View Complete Project Documentation](.assets/seravian_project_documentation.pdf)** - Detailed technical specifications, API documentation, and development guide.
+**<a href=".assets/seravian_project_documentation.pdf" target="_blank">📖 View Complete Project Documentation</a>** - Detailed technical specifications, API documentation, and development guide.
 
 ---
 
