@@ -24,7 +24,7 @@ The platform combines advanced natural language processing, emotion recognition 
 
 Our platform consists of four main components working together to deliver seamless mental health support:
 
-- **🖥️ Web Application** - Angular-based admin dashboard and web interface
+- **🖥️ Web Application** - Angular-based web interface
 - **📱 Mobile Application** - Kotlin Android app for end-users
 - **⚙️ Backend API** - ASP.NET Core Web API serving as secure middleware
 - **🤖 AI Services** - Python FastAPI microservices hosted on Modal
